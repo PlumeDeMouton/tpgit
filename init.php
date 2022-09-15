@@ -7,4 +7,6 @@ $b = "bonjour à tous";
 echo($b);
 $c = "c'est super";
 echo($c);
+echo("aaaaaaa");
+echo("azzerrtethytj");
 ?>
